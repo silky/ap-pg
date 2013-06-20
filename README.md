@@ -1,4 +1,1 @@
-ap-pg
-=====
-
-The Argument Protocol Application
+The Argument Protocol Phone Application.
